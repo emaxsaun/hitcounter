@@ -1,7 +1,7 @@
 Hit Counter
 ==========
 
-This is a small piece of PHP for use with the JW Player. It will show how hits a particular video has as a counter over the player. The number of hits is stored in a text file.
+This is a small piece of PHP for use with the JW Player. It will show how many hits a particular video has as a counter over the player. The number of hits is stored in a text file.
 
 ### [Demo](http://www.pluginsbyethan.com/github/hitcounter.php)
 
