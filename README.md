@@ -8,7 +8,7 @@ This is a small piece of PHP for use with the JW Player. It will show how many h
 Implementation:
 ==========
 
-The file counter.php simply needs to be loaded unerneath the closing script tag for your JW Player embed as a PHP include It is that simple. Like so:
+The file counter.php simply needs to be loaded unerneath the closing script tag for your JW Player embed as a PHP include. It is that simple. Like so:
 
 <pre>
 &lt;?php include 'counter.php'; ?&gt;
